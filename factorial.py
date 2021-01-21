@@ -5,7 +5,7 @@ Created on Fri Dec 11 14:48:00 2020
 @author: DELL
 """
 
-"""program to compute the factorial of a number"""
+print("It is a program to compute the factorial of a number input by the user")
 
 n = int(input("Enter the number : "))
 

@@ -8,14 +8,14 @@ Created on Thu Dec 31 12:30:34 2020
 """ find the largest prime factor of a number"""
 
 num = int(input("Enter an integer "))
-list1 = []
+lst1 = []
 for i in range(2, num):
     if num%i == 0:
-        list1.append(i)
+        lst1.append(i)
         
         -
 set1 = set()
-for j in list1 :
+for j in lst1 :
     flag = True
     for k in range(2,j):
         if j%k == 0:
