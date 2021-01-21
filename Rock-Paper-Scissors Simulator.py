@@ -4,7 +4,6 @@ Created on Fri Dec 11 15:39:01 2020
 
 @author: DELL
 """
-
 import random
 from termcolor import colored
 
@@ -18,7 +17,9 @@ Rules of the game are as follows:
     
 Rock loses to Paper
 Rock wins over Scissors
-Paper loses to Scissors""")
+Paper loses to Scissors
+
+Let's Play!""")
 
 #sample_space is the list of all the possible outcomes 
 

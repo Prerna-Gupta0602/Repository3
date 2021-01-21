@@ -12,8 +12,7 @@ lst1 = []
 for i in range(2, num):
     if num%i == 0:
         lst1.append(i)
-        
-        -
+
 set1 = set()
 for j in lst1 :
     flag = True
