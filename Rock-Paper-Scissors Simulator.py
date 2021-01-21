@@ -6,7 +6,7 @@ Created on Fri Dec 11 15:39:01 2020
 """
 import random
 from termcolor import colored
-
+print("problem with importing termcolor")
 print("""\nWelcome to Rock-Paper-Scissors game
               
 You are named as the User in the game, playing against the Computer
