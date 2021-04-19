@@ -7,6 +7,8 @@ Created on Fri Dec 11 15:39:01 2020
 import random
 from termcolor import colored
 
+#print("small change made for pull to work fine")
+
 print("""\nWelcome to Rock-Paper-Scissors game
               
 You are named as the User in the game, playing against the Computer
